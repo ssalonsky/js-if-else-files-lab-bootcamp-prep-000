@@ -1,5 +1,5 @@
-var name ="Susan"
-var height ="70"
+var name ="Taylor"
+var height ="75"
 
 // Don't worry about this
 module.exports = { name, height
